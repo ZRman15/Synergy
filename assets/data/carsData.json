@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Nissan Leaf",
+    "description": "The 3rd Generation Nissan LEAF reimagines an electric icon, blending style and daring innovation to create a sleek and spacious family-friendly crossover.",
+    "image": "Nissan-Leaf.jpg",
+    "cost": "£30000",
+    "yearlyAvgCost": "£3000",
+    "avgMileage": "230 Miles",
+    "chargingTime": "6h 32m",
+    "batteryCapacity": "40 kWh",
+    "chargingPort": "Type 2 / CHAdeMO"
+  },
+  {
+    "id": "2",
+    "title": "Tesla Model 3",
+    "description": "The Tesla Model 3 is an electric four-door sedan developed by Tesla.",
+    "image": "Tesla-Model-3.jpg",
+    "cost": "£40000",
+    "yearlyAvgCost": "£4000",
+    "avgMileage": "310 Miles",
+    "chargingTime": "5h 15m",
+    "batteryCapacity": "60 kWh",
+    "chargingPort": "Type 2 / CCS"
+  },
+  {
+    "id": "3",
+    "title": "Polestar 2",
+    "description": "The Polestar 2 is an all-electric 5-door fastback produced by Polestar, featuring minimalist Scandinavian design and high performance.",
+    "image": "Polestar-2-2.jpg",
+    "cost": "£45000",
+    "yearlyAvgCost": "£3500",
+    "avgMileage": "270 Miles",
+    "chargingTime": "7h 00m",
+    "batteryCapacity": "78 kWh",
+    "chargingPort": "Type 2 / CCS"
+  },
+  {
+    "id": "4",
+    "title": "Kia EV6",
+    "description": "The Kia EV6 is a cutting-edge electric crossover with futuristic styling, impressive range, and ultra-fast charging capabilities.",
+    "image": "Kia-EV-6.jpg",
+    "cost": "£44,995",
+    "yearlyAvgCost": "£2,800",
+    "avgMileage": "328 Miles",
+    "chargingTime": "4h 45m",
+    "batteryCapacity": "77.4 kWh",
+    "chargingPort": "Type 2 / CCS"
+  },
+  {
+    "id": "5",
+    "title": "Hyundai IONIQ 5",
+    "description": "The Hyundai IONIQ 5 features retro-futuristic styling with cutting-edge technology, spacious interior, and versatile charging options.",
+    "image": "Hyundai-Ioniq-5.jpg",
+    "cost": "£41,900",
+    "yearlyAvgCost": "£2,750",
+    "avgMileage": "298 Miles",
+    "chargingTime": "5h 10m",
+    "batteryCapacity": "72.6 kWh",
+    "chargingPort": "Type 2 / CCS"
+  },
+  {
+    "id": "6",
+    "title": "MG4 EV",
+    "description": "The MG4 EV offers exceptional value with impressive range, modern styling, and comprehensive technology at an affordable price point.",
+    "image": "MG4.jpeg",
+    "cost": "£26,995",
+    "yearlyAvgCost": "£2,200",
+    "avgMileage": "281 Miles",
+    "chargingTime": "6h 15m",
+    "batteryCapacity": "64 kWh",
+    "chargingPort": "Type 2 / CCS"
+  },
+  {
+    "id": "7",
+    "title": "Volkswagen ID.3",
+    "description": "The Volkswagen ID.3 is a compact electric hatchback with minimalist design, spacious interior, and solid range for everyday driving.",
+    "image": "ID3.jpeg",
+    "cost": "£37,115",
+    "yearlyAvgCost": "£2,600",
+    "avgMileage": "265 Miles",
+    "chargingTime": "5h 30m",
+    "batteryCapacity": "58 kWh",
+    "chargingPort": "Type 2 / CCS"
+  },
+  {
+    "id": "8",
+    "title": "BMW i4",
+    "description": "The BMW i4 combines traditional BMW driving dynamics with electric power in a sleek four-door gran coupe body style.",
+    "image": "BMWi4.jpg",
+    "cost": "£53,480",
+    "yearlyAvgCost": "£3,100",
+    "avgMileage": "365 Miles",
+    "chargingTime": "6h 00m",
+    "batteryCapacity": "83.9 kWh",
+    "chargingPort": "Type 2 / CCS"
+  }
+]

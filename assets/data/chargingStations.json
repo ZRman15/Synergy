@@ -1,0 +1,447 @@
+[
+  {
+    "id": "1",
+    "name": "bp pulse",
+    "type": "EV Fast Charging Station",
+    "location": "Hatfield, Hertfordshire",
+    "coordinates": {
+      "latitude": 51.75496,
+      "longitude": -0.22136
+    },
+    "travelTime": "3 min",
+    "hours": "Open",
+    "availableNow": "1",
+    "totalChargers": "1",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "CHAdeMO",
+        "speed": "50 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+44123456789",
+      "website": "https://bppulse.co.uk"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Octopus Energy Charger",
+    "type": "EV Charging Station",
+    "location": "London, UK",
+    "coordinates": {
+      "latitude": 51.70722,
+      "longitude": -0.12750
+    },
+    "travelTime": "5 min",
+    "hours": "Open 24/7",
+    "availableNow": "2",
+    "totalChargers": "4",
+    "pricing": "Free",
+    "chargerDetails": [
+      {
+        "type": "CCS",
+        "speed": "75 kW",
+        "available": true
+      },
+      {
+        "type": "Type 2",
+        "speed": "22 kW",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Tesla Supercharger",
+    "type": "EV Supercharging Station",
+    "location": "Birmingham, UK",
+    "coordinates": {
+      "latitude": 52.4862,
+      "longitude": -1.8904
+    },
+    "travelTime": "15 min",
+    "hours": "Open 24/7",
+    "availableNow": "8",
+    "totalChargers": "12",
+    "pricing": "Pay per kWh",
+    "chargerDetails": [
+      {
+        "type": "Tesla V3",
+        "speed": "250 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+44123456789",
+      "website": "https://www.tesla.com/supercharger"
+    }
+  },
+  {
+    "id": "4",
+    "name": "bp pulse",
+    "type": "EV Charging Station",
+    "location": "Hatfield, Hertfordshire",
+    "coordinates": {
+      "latitude": 51.7543512,
+      "longitude": -0.242505
+    },
+    "travelTime": "45 min",
+    "hours": "Open",
+    "availableNow": "0",
+    "totalChargers": "1",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "Mennekes",
+        "speed": "7.4 kW"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Blink",
+    "type": "Charging Station",
+    "location": "Hatfield, Hertfordshire",
+    "coordinates": {
+      "latitude": 51.764050,
+      "longitude": -0.227243
+    },
+    "travelTime": "15 min",
+    "hours": "Open",
+    "availableNow": "12",
+    "totalChargers": "14",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "Mennekes",
+        "speed": "22 kW"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Charger",
+    "type": "Charging Station",
+    "location": "Hatfield, Hertfordshire",
+    "coordinates": {
+      "latitude": 51.763581, 
+      "longitude": -0.227290
+    },
+    "travelTime": "15 min",
+    "hours": "Open",
+    "availableNow": "4",
+    "totalChargers": "4",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "Mennekes",
+        "speed": "22 kW"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "bp Pulse",
+    "type": "Charging Station",
+    "location": "Hatfield, Hertfordshire",
+    "coordinates": {
+      "latitude": 51.764370, 
+      "longitude": -0.227246
+    },
+    "travelTime": "12 min",
+    "hours": "Open",
+    "availableNow": "2",
+    "totalChargers": "2",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "Mennekes",
+        "speed": "22 kW"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Hatfield Business Park Chargers",
+    "type": "EV Charging Station",
+    "location": "Hatfield Business Park, Hatfield",
+    "coordinates": {
+      "latitude": 51.7589,
+      "longitude": -0.2309
+    },
+    "travelTime": "8 min",
+    "hours": "Open 24/7",
+    "availableNow": "3",
+    "totalChargers": "6",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "CCS",
+        "speed": "50 kW",
+        "available": true
+      },
+      {
+        "type": "Type 2",
+        "speed": "22 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+441707123456",
+      "website": "https://hatfieldbusinesspark.co.uk"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Galleria Shopping Centre",
+    "type": "EV Charging Station",
+    "location": "The Galleria, Hatfield",
+    "coordinates": {
+      "latitude": 51.7536,
+      "longitude": -0.2241
+    },
+    "travelTime": "5 min",
+    "hours": "Open 9AM-10PM",
+    "availableNow": "2",
+    "totalChargers": "8",
+    "pricing": "£0.35/kWh",
+    "chargerDetails": [
+      {
+        "type": "Type 2",
+        "speed": "22 kW",
+        "available": true
+      },
+      {
+        "type": "CCS",
+        "speed": "50 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+441707278301",
+      "website": "https://thegalleria.co.uk"
+    }
+  },
+  {
+    "id": "10",
+    "name": "University of Hertfordshire",
+    "type": "EV Charging Station",
+    "location": "College Lane Campus, Hatfield",
+    "coordinates": {
+      "latitude": 51.7532,
+      "longitude": -0.2406
+    },
+    "travelTime": "7 min",
+    "hours": "Open 24/7",
+    "availableNow": "4",
+    "totalChargers": "10",
+    "pricing": "Free",
+    "chargerDetails": [
+      {
+        "type": "Type 2",
+        "speed": "7.4 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+441707284000",
+      "website": "https://herts.ac.uk"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Tesco Superstore",
+    "type": "EV Charging Station",
+    "location": "Hatfield Road, Hatfield",
+    "coordinates": {
+      "latitude": 51.7621,
+      "longitude": -0.2281
+    },
+    "travelTime": "10 min",
+    "hours": "Open 6AM-12AM",
+    "availableNow": "1",
+    "totalChargers": "4",
+    "pricing": "Free",
+    "chargerDetails": [
+      {
+        "type": "Type 2",
+        "speed": "7 kW",
+        "available": true
+      },
+      {
+        "type": "Type 2",
+        "speed": "22 kW",
+        "available": false
+      }
+    ],
+    "contact": {
+      "phone": "+441707255510",
+      "website": "https://tesco.com"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Hatfield Train Station",
+    "type": "EV Charging Station",
+    "location": "Great North Road, Hatfield",
+    "coordinates": {
+      "latitude": 51.7642,
+      "longitude": -0.2151
+    },
+    "travelTime": "12 min",
+    "hours": "Open 24/7",
+    "availableNow": "2",
+    "totalChargers": "4",
+    "pricing": "£0.30/kWh",
+    "chargerDetails": [
+      {
+        "type": "Type 2",
+        "speed": "22 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "website": "https://nationalrail.co.uk"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Asda Superstore",
+    "type": "EV Charging Station",
+    "location": "Queensway, Hatfield",
+    "coordinates": {
+      "latitude": 51.7598,
+      "longitude": -0.2278
+    },
+    "travelTime": "9 min",
+    "hours": "Open 24 hours",
+    "availableNow": "3",
+    "totalChargers": "6",
+    "pricing": "Paid",
+    "chargerDetails": [
+      {
+        "type": "CCS",
+        "speed": "50 kW",
+        "available": true
+      },
+      {
+        "type": "CHAdeMO",
+        "speed": "50 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+441707270551",
+      "website": "https://asda.com"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Shell Recharge",
+    "type": "EV Fast Charging Station",
+    "location": "Great North Road, Hatfield",
+    "coordinates": {
+      "latitude": 51.7689,
+      "longitude": -0.2198
+    },
+    "travelTime": "11 min",
+    "hours": "Open 24/7",
+    "availableNow": "2",
+    "totalChargers": "4",
+    "pricing": "£0.49/kWh",
+    "chargerDetails": [
+      {
+        "type": "CCS",
+        "speed": "150 kW",
+        "available": true
+      },
+      {
+        "type": "CHAdeMO",
+        "speed": "100 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "website": "https://shell.co.uk/recharge"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Hatfield House Car Park",
+    "type": "EV Charging Station",
+    "location": "Great North Road, Hatfield",
+    "coordinates": {
+      "latitude": 51.7612,
+      "longitude": -0.2082
+    },
+    "travelTime": "14 min",
+    "hours": "Open 8AM-6PM",
+    "availableNow": "1",
+    "totalChargers": "2",
+    "pricing": "£0.25/kWh",
+    "chargerDetails": [
+      {
+        "type": "Type 2",
+        "speed": "7 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+441707287010",
+      "website": "https://hatfield-house.co.uk"
+    }
+  },
+  {
+    "id": "16",
+    "name": "InstaVolt Hatfield",
+    "type": "EV Rapid Charging Station",
+    "location": "Comet Way, Hatfield",
+    "coordinates": {
+      "latitude": 51.7542,
+      "longitude": -0.2356
+    },
+    "travelTime": "6 min",
+    "hours": "Open 24/7",
+    "availableNow": "2",
+    "totalChargers": "4",
+    "pricing": "£0.40/kWh",
+    "chargerDetails": [
+      {
+        "type": "CCS",
+        "speed": "125 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "website": "https://instavolt.co.uk"
+    }
+  },
+  {
+    "id": "17",
+    "name": "David Lloyd Fitness Club",
+    "type": "EV Charging Station",
+    "location": "Hatfield Business Park, Hatfield",
+    "coordinates": {
+      "latitude": 51.7601,
+      "longitude": -0.2341
+    },
+    "travelTime": "10 min",
+    "hours": "Open 6AM-10PM",
+    "availableNow": "1",
+    "totalChargers": "2",
+    "pricing": "Free",
+    "chargerDetails": [
+      {
+        "type": "Type 2",
+        "speed": "7 kW",
+        "available": true
+      }
+    ],
+    "contact": {
+      "phone": "+441707276123",
+      "website": "https://davidlloyd.co.uk"
+    }
+  }
+]
