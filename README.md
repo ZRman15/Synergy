@@ -1,11 +1,36 @@
-# Sample Snack app
+# Synergy - Your Electric Car Companion
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Synergy is a comprehensive mobile application designed to enhance the electric vehicle ownership experience. This app provides essential tools and information for EV owners to manage their vehicles, find charging stations, and optimize their electric driving experience.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- **Home Dashboard**: View your EV's charging status, estimated range, and energy savings
+- **Charging Map**: Find nearby charging stations with real-time availability information
+- **Car Comparison**: Compare different electric vehicles based on specifications and costs
+- **User Settings**: Personalize your experience by selecting your vehicle and preferences
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Technical Details
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+This application is built using:
+- React Native with Expo
+- React Navigation for screen management
+- AsyncStorage for local data persistence
+- Custom UI components for a seamless user experience
+
+## Getting Started
+
+1. Clone this repository
+2. Install dependencies with `npm install`
+3. Start the development server with `npm start`
+4. Use the Expo Go app to test on your device or use an emulator
+
+## Project Structure
+
+- `/assets`: Contains images, fonts, and data files
+- `/components`: Reusable UI components
+- `/pages`: Main application screens
+- `/App.js`: Main application entry point
+
+## About
+
+Synergy was developed as a prototype to demonstrate how technology can make electric vehicle ownership more convenient and efficient.
